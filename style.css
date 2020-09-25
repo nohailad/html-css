@@ -1,0 +1,58 @@
+h2, p, ul, ol {
+    font-family: helvetica;
+}
+
+.h1 {
+    font-size: 22px;
+}
+.h2 {
+    font-size: 18px;
+}
+
+.center {
+    border: 3px solid green; 
+    width: 60%;
+    padding: 35px;
+    margin: auto;
+    }
+
+.tagline {
+    font-size: 15px;
+}
+.servingstid {
+    font-weight:bold;
+    font-size: 12px;
+}
+
+.ingredienser {
+font-size: 18px;
+}
+
+.tid {
+    color: grey;
+    font-size: 15px;
+}
+
+.tilberedelse {
+    font-size: 15px;
+
+}
+
+.udtryk {
+    color: red;
+}
+
+.img {
+    size: 400px;
+    width: 450px;
+    height: 300px;
+}
+
+.href{
+    color: green;
+    text-decoration: none;
+}
+.a {
+list-style-type: square;
+font-size: 15px;
+}
